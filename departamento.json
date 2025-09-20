@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "ciudad": "Barranquilla",
+    "nombre": "Macarol",
+    "categoria": "Apartamento",
+    "precio_actual": 321100000,
+    "precio_anterior": 435141509,
+    "area": "80m²",
+    "habitaciones": 3,
+    "baños": 2,
+    "parqueaderos": 1,
+    "imagen": "https://resizedimgs.zapimoveis.com.br/fit-in/1600x720/named.images.sp/5f9268e4330210c27efd13640ff8236c/image.webp",
+    "latitud": 10.9639,
+    "longitud": -74.7964
+  },
+  {
+    "id": 2,
+    "ciudad": "Bogotá",
+    "nombre": "Pinar de la Fontana",
+    "categoria": "Casa",
+    "precio_actual": 255000000,
+    "precio_anterior": 315000000,
+    "area": "58m²",
+    "habitaciones": 2,
+    "baños": 2,
+    "parqueaderos": 0,
+    "imagen": "https://a0.muscache.com/im/pictures/miso/Hosting-710686557434101968/original/d187fd95-21cc-46df-8523-38de0940efd7.jpeg?im_w=720",
+    "latitud": 4.711,
+    "longitud": -74.0721
+  },
+  {
+    "id": 3,
+    "ciudad": "Jamundí",
+    "nombre": "Tangara",
+    "categoria": "Apartamento",
+    "precio_actual": 350000000,
+    "precio_anterior": 400000000,
+    "area": "100m²",
+    "habitaciones": 2,
+    "baños": 2,
+    "parqueaderos": 1,
+    "imagen": "https://images.ctfassets.net/8lc7xdlkm4kt/2G5To7OcBb6d38LodobWND/efc121809ee1b3c59c2dd6beb8cd4360/Vivace_en_uno_de_los_barrios_exclusivos_de_Barranquilla.jpg",
+    "latitud": 3.263,
+    "longitud": -76.5377
+  },
+  {
+    "id": 4,
+    "ciudad": "Rionegro",
+    "nombre": "Alejandría",
+    "categoria": "Lote",
+    "precio_actual": 190000000,
+    "precio_anterior": 240000000,
+    "area": "54m²",
+    "habitaciones": 2,
+    "baños": 2,
+    "parqueaderos": 1,
+    "imagen": "https://www.vivesco.co/wp-content/uploads/2024/01/4628_30_34684360.jpg",
+    "latitud": 6.1532,
+    "longitud": -75.374
+  }
+]
