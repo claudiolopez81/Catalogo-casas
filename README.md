@@ -1,1 +1,1 @@
-# PC2-Pagina-Web-departamentos-
+# Catalogo/departamentos
